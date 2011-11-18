@@ -15,6 +15,15 @@
     </ul>
 <br/>
 <br/>
+<h2><b>Subscribe</b></h2>
+<br/>
+    <a href="<?php bloginfo('atom_url'); ?>" title="<?php _e('Atom'); ?>">
+    <img src="../wp-content/themes/goshen/img/feed-icon.png" alt="Atom" title="Atom" /> Atom</a><br/>
+    <a href="<?php bloginfo('rss_url'); ?>" title="<?php _e('RSS .92'); ?>">
+    <img src="../wp-content/themes/goshen/img/feed-icon.png" alt="RSS .92" title="RSS .92" /> RSS .92</a><br/>
+    <a href="<?php bloginfo('rss2_url'); ?>" title="<?php _e('RSS 2.0'); ?>">
+    <img src="../wp-content/themes/goshen/img/feed-icon.png" alt="RSS 2.0" title="RSS 2.0" /> RSS 2.0</a><br/>
+<br/>
 <?php if(function_exists('stats_get_csv')) : ?>
 	<h2><b>Most-viewed posts</b></h2>
 	<ul id="popularposts">
