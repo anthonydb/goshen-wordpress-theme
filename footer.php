@@ -1,7 +1,7 @@
 
 <div id="footer">
 <p>Copyright Notice.<br />
-I'm using <a href="http://www.anthonydebarros.com/2010/06/19/download-wordpress-theme/" >Goshen</a> for WordPress.</p>
+I'm using <a href="http://www.anthonydebarros.com/2011/11/18/wordpress-theme-download/" >Goshen</a> for WordPress.</p>
 </div>
 
 <div id="call">
