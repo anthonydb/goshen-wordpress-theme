@@ -12,8 +12,8 @@ Tags: one column, widgets
 
 body, h1, h2, h3, h4, h5, h6, address, blockquote, dd, hr, p, form
 {
-	margin: 0;
-	padding: 0;
+   margin: 0;
+   padding: 0;
 }
 
 body
@@ -28,200 +28,206 @@ body
 
 h1
 {
-	font-size: 46px;
-	letter-spacing: -2px;
-	padding: 0 0 10px 0;
+   font-size: 46px;
+   letter-spacing: -2px;
+   padding: 0 0 10px 0;
 }
 
 
 a:link, a:visited
 {
-	text-decoration: underline;
-	color: #000000;
+   text-decoration: underline;
+   color: #000000;
+}
+
+a img 
+{
+   border: none;
 }
 
 a:hover
 {
-	text-decoration: underline;
+   text-decoration: underline;
 }
 
 p
 {
-	padding: 10px 0 0 0;
+   padding: 10px 0 0 0;
 }
 
 blockquote p {
 	
-        border-left: 5px solid #202020;
-	margin: 10px 0 0 1.5em;
-	padding: 0 15px 5px 10px;
-	font-family: Arial;
-	font-size: 13px;
-	line-height: 16px;
+   border-left: 5px solid #202020;
+   margin: 10px 0 0 1.5em;
+   padding: 0 15px 5px 10px;
+   font-family: Arial;
+   font-size: 13px;
+   line-height: 16px;
 } 
 
 #container
 {
-	margin: 10px auto 0 auto;
-        width: 900px;
-	text-align: left;
-	background: #FFFFFF;
+   margin: 10px auto 0 auto;
+   width: 900px;
+   text-align: left;
+   background: #FFFFFF;
 }
 
 #bigcontainer
 {
-	font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	padding: 0 0 0 0;
-	float: left;
-	width: 640px;
-        background: #FFFFFF;
+   font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+   padding: 0 0 0 0;
+   float: left;
+   width: 640px;
+   background: #FFFFFF;
 }
 
 #postcontainer
 {
-	float: left;
-	width: 570px;
-	padding: 0px 15px 0px 0px;
+   float: left;
+   width: 570px;
+   padding: 0px 15px 0px 0px;
 }
 
 .post
 {
-	padding: 12px 0 11px 0;
-	font-size: 14px;
+   padding: 12px 0 11px 0;
+   font-size: 14px;
 }
 
 .post h2
 {
-   	font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	font-size: 22px;
-	letter-spacing: -0.5px;
+   font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+   font-size: 22px;
+   letter-spacing: -0.5px;
 }
 
 .post h2 a
 {
-
-	text-decoration: none;
+   text-decoration: none;
 }
 
 .entry
 {
-	line-height: 20px;
+   line-height: 20px;
 }
-
 
 p.postmetadata
 {
-	border-top: 1px solid #96A08D;
-	margin: 10px 0 0 0;
- 	font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	font-size: 12px;
-        color: #96A08D;
-	text-transform: uppercase;
-        text-align: right;
+   border-top: 1px solid #96A08D;
+   margin: 10px 0 0 0;
+   font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+   font-size: 12px;
+   color: #96A08D;
+   text-transform: uppercase;
+   text-align: right;
 }
 
 p.postmetadata a
 {
-        color:#96A08D;
+   color:#96A08D;
 }
 
 .sidebar
 {
-	float: left;
-	width: 210px;
-	margin: 10px 0 0 10px;
-	padding: 0 0 0 30px;
-	border-left: 1px solid #96A08D;
-        background: #FFFFFF;
+   float: left;
+   width: 210px;
+   margin: 10px 0 0 10px;
+   padding: 0 0 0 30px;
+   border-left: 1px solid #96A08D;
+   background: #FFFFFF;
 }
 
 .sidebar h1
 {
-	font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	font-size: 38px;
-        line-height: 34px;
-        letter-spacing: -1px;
-        margin-bottom: -7px;
+   font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+   font-size: 38px;
+   line-height: 34px;
+   letter-spacing: -1px;
+   margin-bottom: -7px;
 }
 
 .sidebar h2
 {
-	font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	font-size: 12px;
-	text-transform: uppercase;
-	font-weight: bold;
-	margin-bottom: -7px;
+   font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+   font-size: 12px;
+   text-transform: uppercase;
+   font-weight: bold;
+   margin-bottom: -7px;
 }
 
 .sidebar ul
 {
-	list-style-type: none;
-	margin-left: 0;
-	padding-left: 1em;
-	text-indent: -1em;
-	line-height: 13px;	
-	font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	/*padding 0 10px 0 10px;*/
+   list-style-type: none;
+   margin-left: 0;
+   padding-left: 1em;
+   text-indent: -1em;
+   line-height: 13px;	
+   font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 
 .sidebar ul li
 {
-	padding: 4px 0 3px 0;
-	font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	line-height: 13px;
+   padding: 4px 0 3px 0;
+   font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+   line-height: 13px;
 }
 
-.sidebar input {
-	font-family: Arial, Helvetica, Georgia, Sans-serif;
-  	font-size: 12px;
-  	background: #F2F2E9;
-  	border-style:inset;
-  	border-width:2px;
-  	color: #000000;
+.sidebar input 
+{
+   font-family: Arial, Helvetica, Georgia, Sans-serif;
+   font-size: 12px;
+   background: #F2F2E9;
+   border-style:inset;
+   border-width:2px;
+   color: #000000;
 }
 
-.sidebar input.button {
-	font-family: Arial, Helvetica, Georgia, Sans-serif;
-  	font-size: 12px;
-  	background-color: #F2F2E9;
-  	border-width:2px;
-  	border-style:outset;
-  	color: #261E17;
+.sidebar input.button 
+{
+   font-family: Arial, Helvetica, Georgia, Sans-serif;
+   font-size: 12px;
+   background-color: #F2F2E9;
+   border-width:2px;
+   border-style:outset;
+   color: #261E17;
 }
 
-.sidedrophead {
-
-        margin: 6px 0 0 0;
-        font-size: 13px;
-        text-transform: uppercase;
+.sidedrophead 
+{
+   margin: 6px 0 0 0;
+   font-size: 13px;
+   text-transform: uppercase;
 }
 
-.rule {
+.rule 
+{
     border-top: 1px solid #261E17;
 }
 
-.commentsnumber {
-	font-style:italic;
-	font-size: 80%;
-	color:#96A08D;
-	font-weight:bold;
-        text-indent: 1px;
+.commentsnumber 
+{
+   font-style:italic;
+   font-size: 80%;
+   color:#96A08D;
+   font-weight:bold;
+   text-indent: 1px;
 }
 
-.moretext {
-
-        font-size: 14px;
-        font-style: italic;
+.moretext 
+{
+   font-size: 14px;
+   font-style: italic;
 }
 
 #footer
 {
-	clear: both;
-	float: left;
-	width: 900px;
-	padding: 10px 0 0 0;
- 	font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-        background-color: #FFFFFF;
+   clear: both;
+   float: left;
+   width: 900px;
+   padding: 10px 0 0 0;
+   font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+   background-color: #FFFFFF;
 }
 
 #footer p
@@ -235,106 +241,120 @@ p.postmetadata a
 }
 /* Comments */
 
-.comments-template{
-	margin: 10px 0 0;
-	padding: 10px 0 0;
-        width: 475px;
+.comments-template
+{
+   margin: 10px 0 0;
+   padding: 10px 0 0;
+   width: 475px;
 }
 
-.comments-template ol{
-	margin: 10px 0 10px 0;
-	padding: 0 0 0px;
-	list-style: none;
-	font-family: Arial, Helvetica, Georgia, Sans-serif;
-	font-size: 11px;
-	background: #FFFFFF
+.comments-template ol
+{
+   margin: 10px 0 10px 0;
+   padding: 0 0 0px;
+   list-style: none;
+   font-family: Arial, Helvetica, Georgia, Sans-serif;
+   font-size: 11px;
+   background: #FFFFFF
 }
 
-.comments-template ol li{
-	margin: 1px 0;
-	line-height: 20px;
-	font-family: Arial, Helvetica, Georgia, Sans-serif;
-	font-size: 12px;
-	padding: 6px 10px 20px 10px;
-	border-bottom: 1px solid #C9C9C9;
+.comments-template ol li
+{
+   margin: 1px 0;
+   line-height: 20px;
+   font-family: Arial, Helvetica, Georgia, Sans-serif;
+   font-size: 12px;
+   padding: 6px 10px 20px 10px;
+   border-bottom: 1px solid #C9C9C9;
 }
 
-.comments-template h2, .comments-template h3{
-	font-size: 16px;
+.comments-template h2, .comments-template h3
+{
+   font-size: 16px;
 }
 
-.commentbox{
-
-    width: 440px;
+.commentbox
+{
+   width: 440px;
 }
 
-.commentavatar{
-
-        width:50px;
-        height:50px;
-        padding: 1px;
-        float: left;
-        border: 1px solid #000000;
-        margin-right: 8px;
+.commentavatar
+{
+   width:50px;
+   height:50px;
+   padding: 1px;
+   float: left;
+   border: 1px solid #000000;
+   margin-right: 8px;
 }
-.commentmetadata{
-        width: 300px;
-        font-size: 12px;
-	background: #FFFFFF;
-        float: left;
+.commentmetadata
+{
+   width: 300px;
+   font-size: 12px;
+   background: #FFFFFF;
+   float: left;
 }
-.commenttext{
-        width: 430px;
-        clear: both;
-}
-
-.comments-template p {
-	padding: 4px 0 0 0;
+.commenttext
+{
+   width: 430px;
+   clear: both;
 }
 
-.comments-template p.nocomments{
-	padding: 0;
+.comments-template p
+{
+   padding: 4px 0 0 0;
 }
 
-.comments-template textarea{
-	font-family: Arial, Helvetica, Georgia, Sans-serif;
-	font-size: 12px;
-	background: #FFFFFF;
+.comments-template p.nocomments
+{
+   padding: 0;
 }
 
-.comments-template input {
-	font-family: Arial, Helvetica, Georgia, Sans-serif;
-  	font-size: 12px;
-  	background: #FFFFFF;
-  	border-style:inset;
-  	border-width:2px;
-  	color: #000000;
+.comments-template textarea
+{
+   font-family: Arial, Helvetica, Georgia, Sans-serif;
+   font-size: 12px;
+   background: #FFFFFF;
 }
 
-.comments-template input.button {
-	font-family: Arial, Helvetica, Georgia, Sans-serif;
-  	font-size: 12px;
-  	background-color: #F2F2E9;
-  	border-width:2px;
-  	border-style:outset;
-  	color: #261E17;
+.comments-template input
+{
+   font-family: Arial, Helvetica, Georgia, Sans-serif;
+   font-size: 12px;
+   background: #FFFFFF;
+   border-style:inset;
+   border-width:2px;
+   color: #000000;
 }
 
-.trackbackbox{
-    width: 440px;
+.comments-template input.button 
+{
+   font-family: Arial, Helvetica, Georgia, Sans-serif;
+   font-size: 12px;
+   background-color: #F2F2E9;
+   border-width:2px;
+   border-style:outset;
+   color: #261E17;
 }
 
-.trackbacktext{
-    width: 430px;
-    font-size: 12px;
-    clear: both;
+.trackbackbox
+{
+   width: 440px;
+}
+
+.trackbacktext
+{
+   width: 430px;
+   font-size: 12px;
+   clear: both;
 }
 
 /* Twitter plugin */
 
-.twitter-timestamp {
-	font-style:italic;
-	font-size: 80%;
-	color:#96A08D;
-	font-weight:bold;
+.twitter-timestamp
+{
+   font-style:italic;
+   font-size: 80%;
+   color:#96A08D;
+   font-weight:bold;
 }
