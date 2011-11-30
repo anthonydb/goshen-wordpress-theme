@@ -8,7 +8,7 @@
 <br />
 <h2>Looks like you took a wrong turn ...</h2>
 <br />
-<img src="../wp-content/themes/goshen/img/404.png" />
+<img src="/wp-content/themes/goshen/img/404.png" />
 <br />
 <br />
 <br />
