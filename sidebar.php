@@ -5,12 +5,12 @@
 <div class="sidedrophead">
     <?php bloginfo('description'); ?>
 </div>
-
     <ul>
-        <li class="page_item page-item-2"><a href="http://www.anthonydebarros.com/about/" title="About">About</a></li>
-        <li class="page_item page-item-85"><a href="http://www.anthonydebarros.com/resume/" title="Resume">Resume</a></li>
-        <li class="page_item page-item-9 current_page_item"><a href="http://www.anthonydebarros.com/clips/" title="Clips">Clips</a></li>
-	<li class="page_item page-item-526"><a href="http://www.anthonydebarros.com/contact/" title="Contact">Contact</a></li>
+        <li><a href="http://www.anthonydebarros.com/about/" title="About">About</a></li>
+        <li><a href="http://www.anthonydebarros.com/resume/" title="Resume">Resume</a></li>
+        <li><a href="http://www.anthonydebarros.com/clips/" title="Clips">Clips</a></li>
+        <li><a href="http://www.anthonydebarros.com/speaking-training/" title="Speaking & Training">Speaking & Training</a></li>
+        <li><a href="http://www.anthonydebarros.com/contact/" title="Contact">Contact</a></li>
       	<li><a href="http://www.anthonydebarros.com">Home</a></li>
     </ul>
 <br/>
