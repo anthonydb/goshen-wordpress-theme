@@ -8,6 +8,7 @@
     <ul>
         <li><a href="http://www.anthonydebarros.com/about/" title="About">About</a></li>
         <li><a href="http://www.anthonydebarros.com/resume/" title="Resume">Resume</a></li>
+        <li><a href="http://www.anthonydb.com" title="Django Sandbox" target="_blank">Django Sandbox</a></li>
         <li><a href="http://www.anthonydebarros.com/clips/" title="Clips">Clips</a></li>
         <li><a href="http://www.anthonydebarros.com/speaking-training/" title="Speaking & Training">Speaking & Training</a></li>
         <li><a href="http://www.anthonydebarros.com/contact/" title="Contact">Contact</a></li>
