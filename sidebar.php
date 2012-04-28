@@ -5,15 +5,35 @@
 <div class="sidedrophead">
     <?php bloginfo('description'); ?>
 </div>
-    <ul>
-        <li><a href="http://www.anthonydebarros.com/about/" title="About">About</a></li>
-        <li><a href="http://www.anthonydebarros.com/resume/" title="Resume">Resume</a></li>
-        <li><a href="http://www.anthonydb.com" title="Django Sandbox" target="_blank">Django Sandbox</a></li>
-        <li><a href="http://www.anthonydebarros.com/clips/" title="Clips">Clips</a></li>
-        <li><a href="http://www.anthonydebarros.com/speaking-training/" title="Speaking & Training">Speaking & Training</a></li>
-        <li><a href="http://www.anthonydebarros.com/contact/" title="Contact">Contact</a></li>
-      	<li><a href="http://www.anthonydebarros.com">Home</a></li>
-    </ul>
+<br/>
+    <h2><b>ABOUT</b></h2>
+        <ul>
+        <li>- <a href="http://www.anthonydebarros.com/resume/" title="Resume">Resume</a></li>
+        <li>- <a href="http://www.anthonydebarros.com/about/" title="Bio">Bio</a></li>
+        <li>- <a href="http://www.linkedin.com/in/debarros1">LinkedIn</a></li>
+        </ul>
+    <h2><b>CODING PROJECTS</b></h2>
+        <ul>
+        <li>- <a href="http://www.anthonydb.com/words/" title="Words on Art" target="_blank">Words on Art (Django)</a></li>
+        <li>- <a href="http://www.anthonydb.com/apis/books" title="Book List API" target="_blank">Book List API example (Django)</a></li>
+        <li>- <a href="https://github.com/AnthonyDB/goshen-wordpress-theme" title="Goshen WordPress Theme" target="_blank">Goshen theme (WordPress)</a></li>
+        <li>- <a href="http://github.com/AnthonyDB">Github</a></li>
+        </ul>        
+    <h2><b>JOURNALISM</b></h2>
+        <ul>
+        <li>- <a href="http://www.anthonydebarros.com/clips/investigative/" title="Investigative">Investigative data journalism</a></li>
+        <li>- <a href="http://www.anthonydebarros.com/clips/interactivity/" title="News applications">News applications</a></li>
+        <li>- <a href="http://www.anthonydebarros.com/clips/" title="Clips">More clips</a></li>
+        <li>- <a href="http://www.anthonydebarros.com/speaking-training/" title="Speaking & training">Speaking & Training</a></li>
+        </ul>        
+    <h2><b>CONTACT, FOLLOW</b></h2>
+        <ul>
+        <li>- <a href="http://www.anthonydebarros.com/contact/" title="Contact">Contact</a></li>
+        <li>- <a href="http://www.twitter.com/AnthonyDB">Twitter</a></li>
+        <li>- <a href="http://pinboard.in/u:anthonydb">Pinboard</a></li>
+        <li>- <a href="http://letusgo.tumblr.com/">Tumblr</a></li>
+        </ul>
+    <g:plusone size="medium" href="http://www.anthonydebarros.com"></g:plusone>
 <br/>
 <br/>
 <h2><b>Subscribe</b></h2>
@@ -43,15 +63,6 @@
 
 <h2><b>microblog</b></h2>
 <?php twitter_messages("AnthonyDB", 5, true, true, '>><br />', true, false, false); ?>
-
-<h2><b>my places</b></h2>
-<br/>
-<a href="http://www.linkedin.com/in/debarros1">LinkedIn</a><br />
-<a href="http://www.twitter.com/AnthonyDB">Twitter</a><br />
-<a href="http://pinboard.in/u:anthonydb">Pinboard</a><br />
-<a href="http://github.com/AnthonyDB">Github</a><br />
-<a href="http://letusgo.tumblr.com/">Tumblr</a><br />
-<br />
 
 <h2><b>data journalism helps</b></h2>
 <br/>

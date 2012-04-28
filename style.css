@@ -55,8 +55,8 @@ p
    padding: 10px 0 0 0;
 }
 
-blockquote p {
-	
+blockquote p 
+{
    border-left: 5px solid #202020;
    margin: 10px 0 0 1.5em;
    padding: 0 15px 5px 10px;
@@ -162,7 +162,6 @@ p.postmetadata a
    margin-left: 0;
    padding-left: 1em;
    text-indent: -1em;
-   line-height: 13px;	
    font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 
@@ -170,7 +169,7 @@ p.postmetadata a
 {
    padding: 4px 0 3px 0;
    font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-   line-height: 13px;
+   line-height: 12px;
 }
 
 .sidebar input 
@@ -284,6 +283,7 @@ p.postmetadata a
    height:50px;
    padding: 1px;
    float: left;
+/*   border: 1px solid #000000;*/
    margin-right: 8px;
 }
 .commentmetadata
