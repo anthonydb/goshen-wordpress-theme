@@ -1,6 +1,6 @@
 <div class="sidebar">
 <div class="sidehead">
-    <h1><a style="text-decoration: none" href="http://www.anthonydebarros.com">Anthony DeBarros</a></h1>
+    <h1><a style="text-decoration: none; color: #000000;" href="http://www.anthonydebarros.com">Anthony DeBarros</a></h1>
 </div>
 <div class="sidedrophead">
     <?php bloginfo('description'); ?>
