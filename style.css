@@ -2,7 +2,7 @@
 Theme Name: Goshen
 Theme URI: http://www.anthonydebarros.com
 Description: A simple WordPress theme for a personal web site. 
-Version: 1.1
+Version: 1.2
 Author: Anthony DeBarros
 Author URI: http://www.anthonydebarros.com
 Tags: one column, widgets
@@ -19,7 +19,7 @@ body, h1, h2, h3, h4, h5, h6, address, blockquote, dd, hr, p, form
 body
 {
    margin: 0;
-   font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+   font-family: 'PT Sans', sans-serif;
    font-size: 12px;  
    text-align: center;
    vertical-align: top;
@@ -85,7 +85,7 @@ blockquote p
 #postcontainer
 {
    float: left;
-   width: 570px;
+   width: 595px;
    padding: 0px 15px 0px 0px;
 }
 
@@ -97,19 +97,29 @@ blockquote p
 
 .post h2
 {
-   font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-   font-size: 22px;
-   letter-spacing: -0.5px;
+   font-family: 'Arvo', serif;
+   font-weight: 400;
+   font-size: 32px;
+   letter-spacing: -1.7px;
 }
 
 .post h2 a
 {
    text-decoration: none;
+   color: #000000;
 }
 
 .entry
 {
-   line-height: 20px;
+   font-family: 'PT Sans', sans-serif;
+   font-size: 15px;
+   line-height: 24px;
+}
+
+.entry a:link, a:visited
+{
+   text-decoration: underline;
+   color: #082567;
 }
 
 p.postmetadata
@@ -140,38 +150,51 @@ p.postmetadata a
 
 .sidebar h1
 {
-   font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-   font-size: 38px;
-   line-height: 34px;
+   font-family: 'PT Sans', sans-serif;
+   font-size: 48px;
+   font-weight: 700;
+   line-height: 40px;
    letter-spacing: -1px;
-   margin-bottom: -7px;
+   margin-bottom: -1px;
 }
 
 .sidebar h2
 {
-   font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-   font-size: 12px;
+   font-family: 'Arvo', serif;
+   font-size: 24px;
+   font-weight: 400;
+   letter-spacing: -1.5px;
+}
+
+.sidebar h3
+{
+   font-family: 'PT Sans', sans-serif;
+   font-size: 14px;
    text-transform: uppercase;
-   font-weight: bold;
+   font-weight: 400;
    margin-bottom: -7px;
 }
 
 .sidebar ul
 {
    list-style-type: none;
-   margin-left: 0;
-   padding-left: 1em;
-   text-indent: -1em;
-   font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+   margin-left: 4px;
+   padding-left: 0px; 
+   text-indent: 0px;
 }
 
 .sidebar ul li
 {
    padding: 4px 0 3px 0;
-   font-family:"Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-   line-height: 12px;
+   font-family: 'PT Sans', sans-serif;
+   font-size: 14px;
+   line-height: 16px;
 }
 
+.sidebar ul li a
+{
+   color: #000000;
+}
 .sidebar input 
 {
    font-family: Arial, Helvetica, Georgia, Sans-serif;
@@ -195,7 +218,7 @@ p.postmetadata a
 .sidedrophead 
 {
    margin: 6px 0 0 0;
-   font-size: 13px;
+   font-size: 16px;
    text-transform: uppercase;
 }
 
@@ -283,7 +306,6 @@ p.postmetadata a
    height:50px;
    padding: 1px;
    float: left;
-/*   border: 1px solid #000000;*/
    margin-right: 8px;
 }
 .commentmetadata
