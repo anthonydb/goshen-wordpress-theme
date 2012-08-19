@@ -6,7 +6,7 @@
     <?php bloginfo('description'); ?>
 </div>
 <br/>
-<h2>Back catalog</h2>
+<h2>Catalog</h2>
 <br/>
     <h3>ABOUT</h3>
         <ul>
@@ -21,7 +21,8 @@
         <li>- <a href="http://www.anthonydb.com/words/" title="Words on Art" target="_blank">Words on Art (Django)</a></li>
         <li>- <a href="http://www.anthonydb.com/apis/books" title="Book List API" target="_blank">Book List API example (Django)</a></li>
         <li>- <a href="https://github.com/AnthonyDB/goshen-wordpress-theme" title="Goshen WordPress Theme" target="_blank">Goshen theme (WordPress)</a></li>
-        <li>- <a href="http://github.com/AnthonyDB">Github</a></li>
+        <li>- <a href="https://github.com/AnthonyDB/catch-the-cat" title="Catch the Cat" target="_blank">Catch the Cat (Python game)</a></li>
+        <li>- <a href="http://github.com/AnthonyDB">My Github</a></li>
         </ul>        
     <h3>JOURNALISM</h3>
         <ul>
