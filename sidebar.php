@@ -12,7 +12,9 @@
         <ul>
         <li>- <a href="http://www.anthonydebarros.com/resume/" title="Resume">Resume</a></li>
         <li>- <a href="http://www.anthonydebarros.com/about/" title="Bio">Bio</a></li>
-        <li>- <a href="http://www.linkedin.com/in/debarros1">LinkedIn</a></li>
+        <li>- <a href="http://www.anthonydebarros.com/services/" title="Services">Services</a></li>
+        <li>- <a href="http://www.anthonydebarros.com/speaking-training/" title="Speaking & training">Speaking &amp; Training</a></li>
+        <li>- <a href="http://www.anthonydebarros.com/contact/" title="Contact">Contact</a></li>
         </ul>
     <h3>CODING PROJECTS</h3>
         <ul>
@@ -26,11 +28,11 @@
         <li>- <a href="http://www.anthonydebarros.com/clips/investigative/" title="Investigative">Investigative data journalism</a></li>
         <li>- <a href="http://www.anthonydebarros.com/clips/interactivity/" title="News applications">News applications</a></li>
         <li>- <a href="http://www.anthonydebarros.com/clips/" title="Clips">More clips</a></li>
-        <li>- <a href="http://www.anthonydebarros.com/speaking-training/" title="Speaking & training">Speaking & Training</a></li>
         </ul>        
     <h3>CONTACT &amp; FOLLOW</h3>
         <ul>
         <li>- <a href="http://www.anthonydebarros.com/contact/" title="Contact">Contact</a></li>
+        <li>- <a href="http://www.linkedin.com/in/debarros1">LinkedIn</a></li>
         <li>- <a href="http://www.twitter.com/AnthonyDB">Twitter</a></li>
         <li>- <a href="http://pinboard.in/u:anthonydb">Pinboard</a></li>
         <li>- <a href="http://letusgo.tumblr.com/">Tumblr</a></li>
