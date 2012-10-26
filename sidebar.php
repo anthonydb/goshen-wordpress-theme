@@ -63,9 +63,6 @@
 	</ul>
 <?php endif; ?>
 
-<h2>Twitter</h2>
-<?php twitter_messages("AnthonyDB", 5, true, true, '>><br />', true, false, false); ?>
-
 <h2>Helpful things</h2>
 <ul>
 <li><a href="http://github.com/onyxfish/csvkit">csvkit</a></li>
