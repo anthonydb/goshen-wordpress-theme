@@ -1,6 +1,6 @@
 <div class="sidebar">
 <div class="sidehead">
-    <h1><a style="text-decoration: none; color: #000000;" href="http://www.anthonydebarros.com">Anthony DeBarros</a></h1>
+    <h1><a style="text-decoration: none; color: #000000;" href="http://www.usatoday.com">Your Website</a></h1>
 </div>
 <div class="sidedrophead">
     <?php bloginfo('description'); ?>
@@ -10,33 +10,14 @@
 <br/>
     <h3>ABOUT</h3>
         <ul>
-        <li>- <a href="http://www.anthonydebarros.com/resume/" title="Resume">Resume</a></li>
-        <li>- <a href="http://www.anthonydebarros.com/about/" title="Bio">Bio</a></li>
-        <li>- <a href="http://www.anthonydebarros.com/services/" title="Services">Services</a></li>
-        <li>- <a href="http://www.anthonydebarros.com/speaking-training/" title="Speaking & training">Speaking &amp; Training</a></li>
-        <li>- <a href="http://www.anthonydebarros.com/contact/" title="Contact">Contact</a></li>
+        <li>- <a href="http://www.cnn.com" title="Resume">About you</a></li>
         </ul>
-    <h3>CODING PROJECTS</h3>
-        <ul>
-        <li>- <a href="http://www.anthonydb.com/words/" title="Words on Art" target="_blank">Words on Art (Django)</a></li>
-        <li>- <a href="http://www.anthonydb.com/apis/books" title="Book List API" target="_blank">Book List API example (Django)</a></li>
-        <li>- <a href="https://github.com/AnthonyDB/goshen-wordpress-theme" title="Goshen WordPress Theme" target="_blank">Goshen theme (WordPress)</a></li>
-        <li>- <a href="https://github.com/AnthonyDB/catch-the-cat" title="Catch the Cat" target="_blank">Catch the Cat (Python game)</a></li>
-        <li>- <a href="http://github.com/AnthonyDB">My Github</a></li>
-        </ul>        
-    <h3>JOURNALISM</h3>
-        <ul>
-        <li>- <a href="http://www.anthonydebarros.com/clips/investigative/" title="Investigative">Investigative data journalism</a></li>
-        <li>- <a href="http://www.anthonydebarros.com/clips/interactivity/" title="News applications">News applications</a></li>
-        <li>- <a href="http://www.anthonydebarros.com/clips/" title="Clips">More clips</a></li>
-        </ul>        
     <h3>CONTACT &amp; FOLLOW</h3>
         <ul>
-        <li>- <a href="http://www.anthonydebarros.com/contact/" title="Contact">Contact</a></li>
-        <li>- <a href="http://www.linkedin.com/in/debarros1">LinkedIn</a></li>
-        <li>- <a href="http://www.twitter.com/AnthonyDB">Twitter</a></li>
-        <li>- <a href="http://pinboard.in/u:anthonydb">Pinboard</a></li>
-        <li>- <a href="http://letusgo.tumblr.com/">Tumblr</a></li>
+        <li>- <a href="http://www.linkedin.com/">LinkedIn</a></li>
+        <li>- <a href="http://www.twitter.com/">Twitter</a></li>
+        <li>- <a href="http://pinboard.in/">Pinboard</a></li>
+        <li>- <a href="http://tumblr.com/">Tumblr</a></li>
         </ul>
 <h2>Subscribe</h2>
 <ul>
